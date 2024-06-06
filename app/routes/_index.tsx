@@ -18,6 +18,15 @@ export default function Index() {
         <li>
           <a
             target="_blank"
+            href="https://forge42.dev"
+            rel="noreferrer"
+          >
+            Forge 42
+          </a>
+        </li>
+        <li>
+          <a
+            target="_blank"
             href="https://developers.cloudflare.com/pages/framework-guides/deploy-a-remix-site/"
             rel="noreferrer"
           >
