@@ -21,7 +21,7 @@ export default function Index() {
             href="https://forge42.dev"
             rel="noreferrer"
           >
-            Forge 42
+            Forge 42 🤖
           </a>
         </li>
         <li>
