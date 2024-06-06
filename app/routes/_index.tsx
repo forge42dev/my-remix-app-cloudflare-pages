@@ -2,7 +2,7 @@ import type { MetaFunction } from "@remix-run/cloudflare";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "New Remix App" },
+    { title: "New Remix App on Cloudflare" },
     {
       name: "description",
       content: "Welcome to Remix! Using Vite and Cloudflare!",
@@ -13,7 +13,7 @@ export const meta: MetaFunction = () => {
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>Welcome to Remix (with Vite and Cloudflare)</h1>
+      <h1>Welcome to Remix on Cloudflare</h1>
       <ul>
         <li>
           <a
